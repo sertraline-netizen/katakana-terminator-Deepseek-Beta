@@ -6,9 +6,9 @@ This is an improved version of a [katakana-terminator](https://github.com/Arnie9
 
 #### Installation 安装
 Please follow the [installation instructions](https://greasyfork.org/en) to configure your browser,
-then [click here to get the user script]().
+键，然后 [click here to get the user script](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/Katakana-Terminator-(DeepSeek-Version).user.js).
 
-请先阅读教程，在浏览器中安装一个用户脚本管理器。之后戳这里下载并安装本程序。
+请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en)。之后[戳这里下载并安装本程序](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/Katakana-Terminator-(DeepSeek-Version).user.js)。
 
 #### Limits 已知缺陷
 Gairaigo from other source languages is also converted to English.
@@ -16,7 +16,9 @@ Sometimes, certain katakana characters cannot be correctly translated into Engli
 You need to manually obtain your Deepseeek Open Platform API and enter it in the corresponding code location before it can be used. For specific steps, please refer to the “How to get Deepseek API” tutorial or read the README document.
 
 即便一组片假名并非源于英语，也会标注为英语中的对应词汇。
+
 有些时候部分片假名无法被正确翻译成英语。部分位置的片假名亦无法被翻译（如某些视频网站观看视频时上方的视频标题）
+
 需要手动获取您的deepseeek开放平台API并输入代码对应位置后方可使用。具体步骤请阅读下方API获取教程或阅读README文档。
 
 #### 如何获取您的deepseek API？
@@ -42,7 +44,7 @@ Currently, the script only supports the Deepseek model. To use this software for
 
 4. 进入代码，在代码var DEEPSEEK_API_KEY = "";这行的双引号中输入你的key，点击保存，即可正常使用
 #### Thanks 致谢
-Developed based on the Deepseek Open Platform and the original version by [Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97).
+Developed based on the [Deepseek Open Platform](https://platform.deepseek.com/usage) and the original version by [Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97).
 
 基于[Deepseek开放平台](https://platform.deepseek.com/usage)和[Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97)的原始版本开发。
 
