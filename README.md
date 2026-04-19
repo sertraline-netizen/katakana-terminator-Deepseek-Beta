@@ -8,10 +8,9 @@ This is an improved version of a [katakana-terminator](https://github.com/Arnie9
 这是一个基于[Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97)开发的[katakana-terminator](https://github.com/Arnie97/katakana-terminator)浏览器扩展插件因Google Translate现阶段（2026年）无法于中国大陆地区使用而提出的改进版本。本插件将Google API更改为Deepseek API,在网页中的日语外来语上方标注英文原词。
 
 #### Installation 安装
-Please follow the [installation instructions](https://greasyfork.org/en) to configure your browser,
-键，然后 [click here to get the user script](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/katakana-terminator-Deepseek-Beta.user.js).
+Please follow the [installation instructions](https://greasyfork.org/en) to configure your browser.
 
-请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en)。之后[戳这里下载并安装本程序](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/katakana-terminator-Deepseek-Beta.user.js)。
+请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en)。
 
 #### Limits 已知缺陷
 Gairaigo from other source languages is also converted to English.
