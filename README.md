@@ -51,7 +51,7 @@ Developed based on the [Deepseek Open Platform](https://platform.deepseek.com/us
 
 基于[Deepseek开放平台](https://platform.deepseek.com/usage)和[Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97)的原始版本开发。
 
-#### Feedback 反馈
+#### Prompt 提示
 This version is a rough draft, originally created to address the author's reluctance to use the original plugin with VPN each time. If you have any suggestions for code improvements, please leave a comment in the GitHub Issues.
 
 This script is basically for personal use, only replacing the API model on the original script created by Arnie97. Users who can use Google Translate should use Arnie97's original version.
