@@ -8,9 +8,9 @@ This is an improved version of a [katakana-terminator](https://github.com/Arnie9
 这是一个基于[Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97)开发的[katakana-terminator](https://github.com/Arnie97/katakana-terminator)浏览器扩展插件因Google Translate现阶段（2026年）无法于中国大陆地区使用而提出的改进版本。本插件将Google API更改为Deepseek API,在网页中的日语外来语上方标注英文原词。
 
 #### Installation 安装
-Please follow the [installation instructions](https://greasyfork.org/en) to configure your browser.
+Please follow the [installation instructions](https://greasyfork.org/en) to configure your browser,then refer to the tutorial to import manually.
 
-请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en)。
+请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en),然后参考教程手动导入。
 
 #### Limits 已知缺陷
 Gairaigo from other source languages is also converted to English.
@@ -54,4 +54,6 @@ Developed based on the [Deepseek Open Platform](https://platform.deepseek.com/us
 #### Feedback 反馈
 This version is a rough draft, originally created to address the author's reluctance to use the original plugin with VPN each time. If you have any suggestions for code improvements, please leave a comment in the GitHub Issues.
 
-该版本为粗略版本，诞生之初是为了解决作者不想每次用魔法使用原始插件的问题。如有代码改进建议请在GitHub Issues中留言。
+This script is basically for personal use, only replacing the API model on the original script created by Arnie97. Users who can use Google Translate should use Arnie97's original version.
+
+该版本为粗略版本，诞生之初是为了解决作者不想每次用魔法使用原始插件的问题。如有代码改进建议请在GitHub Issues中留言。这个脚本基本自用，只是在Arnie97创造的原始脚本上更换了API模型。能用Google Translate的用户请用Arnie97的原版本。
