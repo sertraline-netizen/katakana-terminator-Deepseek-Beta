@@ -1,4 +1,7 @@
-### Katakana Terminator Deepseek (beta) 片假名终结者deepseek版 beta カタカナ‌ターミネーター ディープシーク（ベータ）
+### Katakana Terminator Deepseek (beta) 
+### 片假名终结者deepseek版 beta 
+### カタカナ‌ターミネーター ディープシーク（ベータ）
+
 #### In a nutshell 简介
 This is an improved version of a [katakana-terminator](https://github.com/Arnie97/katakana-terminator) browser extension plugin developed based on [Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97), proposed due to the current unavailability of Google Translate in mainland China (as of 2026). This plugin replaces the Google API with the Deepseek API, marking the original English words above Japanese loanwords on web pages.
 
@@ -36,13 +39,14 @@ Currently, the script only supports the Deepseek model. To use this software for
 用比喻来说就是，我做的是一款手机，如果你想用它进行通话，你需要插入联动或者移动的卡，然后通话费用完全和你自己通话时长有关系，直接在运营商那里缴费就可以了，下面，我来说明如何去注册“电话卡”。
 目前脚本暂时只支持deepseek模型，要想正常使用此软件进行聊天，需要：
 
-1.登录[Deepseek开放平台](https://platform.deepseek.com/usage)页面（注意不是聊天页面）
+1.登录[Deepseek开放平台](https://platform.deepseek.com/usage)页面（注意不是聊天页面）；
 
-2.注册登录后，进行充值。最低10元，这个脚本耗费很少，10块钱够用很久了。
+2.注册登录后，进行充值。最低10元，这个脚本耗费很少，10块钱够用很久了；
 
-3.在APIkeys页面，创建并复制key (是sk-的那一串)
+3.在APIkeys页面，创建并复制key (是sk-的那一串)；
 
-4. 进入代码，在代码var DEEPSEEK_API_KEY = "";这行的双引号中输入你的key，点击保存，即可正常使用
+4. 进入代码，在代码var DEEPSEEK_API_KEY = "";这行的双引号中输入你的key，点击保存，即可正常使用。
+
 #### Thanks 致谢
 Developed based on the [Deepseek Open Platform](https://platform.deepseek.com/usage) and the original version by [Arnie97](https://github.com/Arnie97/katakana-terminator/commits?author=Arnie97).
 
