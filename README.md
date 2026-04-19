@@ -9,9 +9,9 @@ This is an improved version of a [katakana-terminator](https://github.com/Arnie9
 
 #### Installation 安装
 Please follow the [installation instructions](https://greasyfork.org/en) to configure your browser,
-键，然后 [click here to get the user script](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/Katakana-Terminator-(DeepSeek-Version).user.js).
+键，然后 [click here to get the user script](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/katakana-terminator-Deepseek-Beta.user.js).
 
-请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en)。之后[戳这里下载并安装本程序](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/katakana-terminator-Deepseek-Beta.js)。
+请先阅读教程，在浏览器中安装一个[用户脚本管理器](https://greasyfork.org/en)。之后[戳这里下载并安装本程序](https://github.com/sertraline-netizen/katakana-terminator-Deepseek-Beta/raw/master/katakana-terminator-Deepseek-Beta.user.js)。
 
 #### Limits 已知缺陷
 Gairaigo from other source languages is also converted to English.
